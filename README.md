@@ -1,5 +1,7 @@
 # IMU SENSOR
 
+IMU sensor has a wide range of applications in life, ranging from airplanes and rockets to smartphones and smart watches. So，it is an interesting sensor.
+
 ![IMU_picture](/pictures/s-l500.jpg)
 
 
